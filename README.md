@@ -48,3 +48,57 @@ The findings are used to develop data-driven strategies to reduce return rates, 
  also strengthens customer trust and satisfaction.
  Ultimately, a well-designed return reduction strategy, supported by continuous data monitoring through dashboards, enables e-commerce businesses to create a more seamless, cost-effective, 
  and customer-friendly shopping experience.
+
+# Project 2
+# HR Analytics - Predict Employee Attrition
+📊 HR Analytics Attrition Dashboard
+This project presents an interactive HR Analytics Dashboard designed to analyze employee attrition trends across departments, job roles, age groups, education levels, and salary bands. Built for business stakeholders and HR teams, the dashboard provides actionable insights to improve employee retention and workforce planning.
+
+## 🔍 Overview
+The dashboard visualizes key metrics such as:
+
+- **Total Employees**: 961  
+- **Attrition Count**: 133  
+- **Attrition Rate**: 13.8%  
+- **Average Age**: 37  
+- **Average Salary**: $6.3K  
+- **Average Tenure**: 6.9 years  
+
+It includes breakdowns by:
+
+- Gender and Education  
+- Age Groups and Salary Slabs  
+- Job Roles and Departments  
+- Years at Company (Attrition Trend Line)
+
+## 📌 Key Features
+- **Department Tabs**: Filter insights by Human Resources, Research & Development, and Sales  
+- **Attrition by Job Role**: Bar chart highlighting roles with highest turnover  
+- **Salary Slab Analysis**: Understand attrition patterns across compensation bands  
+- **Tenure Trends**: Line chart showing attrition over years at company  
+- **Education & Age Segmentation**: Identify vulnerable groups for targeted retention strategies  
+
+## 🛠️ Tools & Technologies
+
+- **Power BI** for dashboard creation and interactivity  
+- **Excel / CSV** for data preprocessing  
+- **SQL (PostgreSQL)** for data extraction and aggregation  
+
+## 🎯 Business Impact
+
+This dashboard enables HR teams to:
+
+- Identify high-risk roles and demographics  
+- Prioritize retention efforts based on data-driven insights  
+- Communicate findings clearly to leadership and stakeholders  
+- Align workforce strategy with organizational goals  
+
+## 📄 Documentation
+
+A stakeholder-friendly PowerPoint summary is included in the `docs/` folder, highlighting key findings and recommendations for HR leadership.
+
+## 🚀 Future Enhancements
+
+- Integrate predictive modeling for attrition risk scoring  
+- Add filters for performance ratings and satisfaction scores  
+- Enable drill-through reports for individual employee profiles 
